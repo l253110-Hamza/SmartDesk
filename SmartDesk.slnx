@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="SmartDesk.vcxproj" Id="e2b939f8-ac82-4288-b122-585cda5d7c8c" />
+</Solution>

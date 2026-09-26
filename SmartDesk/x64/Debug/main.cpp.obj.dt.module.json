@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "SmartDesk\\x64\\Debug\\main.obj",
+            "outputs": [
+                "SmartDesk\\x64\\Debug\\main.cpp.obj.dt.module.json",
+                "SmartDesk\\x64\\Debug\\main.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
